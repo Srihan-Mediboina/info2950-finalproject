@@ -1,0 +1,11 @@
+Vehicle Type,CO2 Emissions (MT CO2),CH4 Emissions (MT CH4),N2O Emissions (MT N2O)
+Motorcycle,56997,21,2
+Passenger Car,2527083,138,79
+Passenger Truck,1544198,66,59
+Light Truck,123947,5,5
+Transit Bus,66988,5,1
+Single Unit SH,263284,2,2
+Single Unit LH,,,
+Combination SH,468387,4,3
+Combination LH,29368,0,0
+Total,5080252,241,151
